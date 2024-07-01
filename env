@@ -1,0 +1,6 @@
+url="https://covid-19-usa-data-by-zt.p.rapidapi.com/GetUSHistoricalDataBetweenDates"
+url_india="https://corona-virus-world-and-india-data.p.rapidapi.com/api_india_timeline"
+host1="covid-19-usa-data-by-zt.p.rapidapi.com"
+key1="aa314823f7msh3efca0eed3ec243p1d982ajsn0e129d196b75"
+host2="corona-virus-world-and-india-data.p.rapidapi.com"
+key2="aa314823f7msh3efca0eed3ec243p1d982ajsn0e129d196b75"
